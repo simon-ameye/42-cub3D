@@ -5,6 +5,10 @@ This is a simple ray casting game.
 
 ## Thanks
 Thanks to my mate Thomas :
+
 https://github.com/thoo-ma
+
+## Preview
+![Preview](sample.png)
 
 Have fun !
